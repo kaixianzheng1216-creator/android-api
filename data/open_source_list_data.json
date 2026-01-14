@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "title": "Retrofit",
+    "subtitle": "Type-safe HTTP client for Android and Java",
+    "tag": "Network"
+  },
+  {
+    "id": "2",
+    "title": "Glide",
+    "subtitle": "Fast and efficient image loading library",
+    "tag": "Image"
+  },
+  {
+    "id": "3",
+    "title": "OkHttp",
+    "subtitle": "Square’s meticulous HTTP client for the JVM",
+    "tag": "Network"
+  },
+  {
+    "id": "4",
+    "title": "MPAndroidChart",
+    "subtitle": "A powerful Android chart view / graph view library",
+    "tag": "UI"
+  },
+  {
+    "id": "5",
+    "title": "EventBus",
+    "subtitle": "Android optimized event bus that simplifies communication",
+    "tag": "Architecture"
+  }
+]
